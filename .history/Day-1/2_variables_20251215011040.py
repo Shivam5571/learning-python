@@ -1,4 +1,4 @@
-# Variable → Data store karne ke liye container hota hai
+
 name = "Shivam"
 age = "22"
 hobby = "Drawing"

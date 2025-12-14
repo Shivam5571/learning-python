@@ -3,7 +3,6 @@
 # float() → Value ko decimal number me convert karta hai
 # str() → Value ko string me convert karta hai
 # Boolean (True/False) → Condition ka result store karta hai
-
 x = "10"
 y = int(x)   #int,float,string
 
