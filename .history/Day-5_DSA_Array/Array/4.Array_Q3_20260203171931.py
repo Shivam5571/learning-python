@@ -1,0 +1,3 @@
+#-----------------------------------Second largest element
+
+arr 
