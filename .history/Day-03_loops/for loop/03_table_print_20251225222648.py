@@ -1,2 +1,0 @@
-num = int(input("Enter a number to print its table: "))
-for in in range 

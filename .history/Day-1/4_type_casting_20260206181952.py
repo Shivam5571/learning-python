@@ -5,7 +5,7 @@
 # Boolean (True/False) → Condition ka result store karta hai
 
 x = "10"
-y = float(x)   #int,float,string
+y = fl(x)   #int,float,string
 
 print(y)
 print(type(y))

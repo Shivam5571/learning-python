@@ -1,5 +1,5 @@
 name = str(input("Enter Your Name: "))
-age = int(input("Enter Your Age: "))
+age = intinput("Enter Your Age: ")
 
 print ("Name: " , name)
 print("Age: ",age)

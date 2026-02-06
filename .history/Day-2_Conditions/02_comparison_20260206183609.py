@@ -10,4 +10,3 @@ print("6. ",a>=b)   # Greater than or equal to
 print("7. ",a is b)   # Identity operator
 print("8. ",a is not b)   # Not identity operator
 # Note: 'in' and 'not in' operators are generally used with sequences like lists, tuples, or strings.
-

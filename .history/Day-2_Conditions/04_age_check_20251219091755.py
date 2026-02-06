@@ -1,2 +1,0 @@
-age = int(input("Enter You Age:"))
-if age>=

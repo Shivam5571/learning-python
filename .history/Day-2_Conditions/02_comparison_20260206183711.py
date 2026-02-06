@@ -11,3 +11,10 @@ print("7. ",a is b)   # Identity operator
 print("8. ",a is not b)   # Not identity operator
 # Note: 'in' and 'not in' operators are generally used with sequences like lists, tuples, or strings.
 
+
+a = int(input("Enter Age: "))
+
+if a > 18:
+    print("You are eligible to vote.")
+else:
+    print("You are not eligible to vote.")

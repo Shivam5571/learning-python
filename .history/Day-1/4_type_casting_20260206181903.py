@@ -4,8 +4,8 @@
 # str() → Value ko string me convert karta hai
 # Boolean (True/False) → Condition ka result store karta hai
 
-x = "10"
-y = float(x)   #int,float,string
+x = "10.0"
+y = int(x)   #int,float,string
 
 print(y)
 print(type(y))
