@@ -5,5 +5,3 @@ Indexing allowed """
 
 s = "Hello World "
 print(s[0])  # H
-
-print(len(s)) # len count kare ga string kitne hai

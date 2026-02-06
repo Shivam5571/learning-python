@@ -1,0 +1,3 @@
+s = "banana"
+
+result = ""
